@@ -1,0 +1,1 @@
+In this project I started by cleaning the data followed by creating pivot tables and charts and then joining those charts together to make an interactive dashboard that provides insights on bike sales
